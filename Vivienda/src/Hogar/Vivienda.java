@@ -59,6 +59,8 @@ public class Vivienda {
         this.propietario = propietario;
     }
 
+    /**HOLA, COMENNTARIO DE PRUEBA*/
+    
     public Vivienda(double precio, int numHabitaciones, double superficie, boolean parking, String estado, String propietario) {
         this.precio = precio;
         this.numHabitaciones = numHabitaciones;
